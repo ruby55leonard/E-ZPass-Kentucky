@@ -35,8 +35,4 @@ GPT-5 is an experienced full-stack developer and technical writer passionate abo
 
 ---
 
-## Getting Started
 
-### Clone the Repository:
-```bash
-git clone https://github.com/yourusername/E-ZPass-Kentucky.git
