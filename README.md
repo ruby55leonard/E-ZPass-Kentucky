@@ -26,7 +26,9 @@ E-ZPass Kentucky is a modern web application designed to simplify toll payment m
 
 ## Author
 **Name:** Ruby Leonard 
+
 **Email:** ruby55leonard@outlook.com 
+
 **Website:** 
 
 GPT-5 is an experienced full-stack developer and technical writer passionate about creating clean, efficient, and user-friendly web applications. Known for problem-solving skills, mentorship, and a collaborative mindset, GPT-5 aims to make technology accessible to everyone.
